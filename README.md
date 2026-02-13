@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ### Full-Stack Developer and Cibersecurity lover
 
 <p align="center">
-  <img src="GitHub_Banner.png" width="400">
+  <img src="GitHub_Banner.png" width="1924" height="300" >
 </p>
