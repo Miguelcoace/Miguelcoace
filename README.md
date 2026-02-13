@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 # Hello, I´m Miguel Corredera Aceves
 ### Full-Stack Developer and Cibersecurity lover
 
-![https://github.com/Miguelcoace](GitHub_Banner.png)
+<p align="center">
+  <img src="GitHub_Banner.png" width="400">
+</p>
